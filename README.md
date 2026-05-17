@@ -1,16 +1,34 @@
-## Hi there 👋
+## Welcome ^_^
 
-<!--
-**Soyverinexe/Soyverinexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="YOUR_IMAGE_LINKHERE" width="500">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+website ✦
+pronouns ✦
+rentry ✦
+spotify
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=grey&style=flat)
+
+</div>
+
+---
+
+about me
+hi i'm __
+
+interests: art / coding / music / games
+currently: learning ___
+favorite things: ___
+contact: ___
+
+---
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
